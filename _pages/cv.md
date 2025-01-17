@@ -11,35 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in The Chinese University of Hong Kong
+* M.S. in Harbin Institute of Technology
+* B.S. in Harbin Institute of Technology
 
-Work experience
+Service
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Associate Editor, IFAC Automatica (2017/01-present),
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Associate Editor, IEEE Transactions on Automatic Control (2023/10-2026/12),
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Associate Editor, System & Control Letters (2017/01-2020/12),
+
+* Associate Editor, IEEE CSS Conference Editorial Board (2016/07-2019/08),
   
-Skills
+Research and Teaching Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* the Oversea High-Level Youth Talents Award of China, 2015,
+* the Presidential Research Fellow Award of CUHK-SZ, 2020,
+* the 2021 World’s Top 2% Scientists, 2022,
+* the Presidential Exemplary Teaching Award of CUHK-SZ, 2021,
+* the First-Class Undergraduate Course of GuangDong Province, 2022,
+* the Outstanding Teacher Award of Shenzhen, 2022.
+
 
 Publications
 ======
